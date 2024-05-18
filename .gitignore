@@ -1,3 +1,4 @@
 .env
 backend/venv
 .history
+backend/app/__pycache__/*
